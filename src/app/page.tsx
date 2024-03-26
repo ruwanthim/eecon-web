@@ -10,7 +10,7 @@ export default function Home() {
             <div
                 className="w-full text-white p-4 pl-16 flex-col justify-center items-center h-screen "
                 style={{
-                    backgroundImage: "url(bg_02.jpg)",
+                    backgroundImage: "url(bg/bg_02.jpg)",
                     backgroundSize: "cover", // Add this line
                 }}
             >

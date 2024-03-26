@@ -1,19 +1,19 @@
 import HeaderCard from "@/components/common/HeaderCard";
 import HeaderImageCard from "@/components/common/HeaderImageCard";
-import IMG_JR_LUCUS from "../../assets/persons/prof_jr_lucus.png";
+import IMG_JR_LUCUS from "../../assets/persons/prof_jr_lucus.jpg";
 import IMG_J_MARS from "../../assets/persons/prof_json_mars.jpg";
-import IMG_PLACEHOLDER from "../../assets/persons/placeholder.png";
+import IMG_PLACEHOLDER from "../../assets/persons/placeholder.jpg";
 import IMG_NALIN_W from "../../assets/persons/prof_nalin_wikramarachchi.jpg";
 
 import IMG_RUWANTHIKA from "../../assets/persons/dr_ruwanthika.jpg";
-import IMG_VIRAJ from "../../assets/persons/dr_viraj.jpeg";
+import IMG_VIRAJ from "../../assets/persons/dr_viraj.jpg";
 import IMG_MANUJA from "../../assets/persons/dr_manuja.jpg";
 import IMG_UPULI from "../../assets/persons/dr_upuli.jpg";
 import IMG_HARSHA from "../../assets/persons/dr_harsha.jpg";
 import IMG_RASARA from "../../assets/persons/dr_rasara.jpg";
 import IMG_THUSHARA from "../../assets/persons/dr_thushara.jpg";
 import IMG_LINDULA from "../../assets/persons/prof_lindula.jpg";
-import IMG_MUDITH from "../../assets/persons/mr_mudith.jpeg";
+import IMG_MUDITH from "../../assets/persons/mr_mudith.jpg";
 import IMG_ABEYGUNAWARDANE from "../../assets/persons/dr_abeygunawardane.jpg";
 import IMG_LOGEESHAN from "../../assets/persons/dr_logeeshan.jpg";
 
@@ -23,7 +23,7 @@ export default function Committee() {
             <div
                 className="w-full text-white p-4 pl-16 flex-col justify-center items-center h-72 "
                 style={{
-                    backgroundImage: "url(bg_02.jpg)",
+                    backgroundImage: "url(bg/bg_h_01.jpg)",
                     backgroundSize: "cover", // Add this line
                 }}
             >
