@@ -54,7 +54,7 @@ function NavBar() {
                         <li>
                             <Link
                                 className="md:p-4 py-2 block hover:text-red-500"
-                                href="#"
+                                href="/"
                             >
                                 Home
                             </Link>
@@ -62,7 +62,7 @@ function NavBar() {
                         <li>
                             <Link
                                 className="md:p-4 py-2 block hover:text-red-500"
-                                href="#"
+                                href="/committee"
                             >
                                 Committee
                             </Link>
@@ -70,7 +70,7 @@ function NavBar() {
                         <li>
                             <Link
                                 className="md:p-4 py-2 block hover:text-red-500"
-                                href="#"
+                                href="speakers"
                             >
                                 Speakers
                             </Link>
@@ -78,7 +78,7 @@ function NavBar() {
                         <li>
                             <Link
                                 className="md:p-4 py-2 block hover:text-red-500"
-                                href="#"
+                                href="/program"
                             >
                                 Program
                             </Link>
@@ -86,7 +86,7 @@ function NavBar() {
                         <li>
                             <Link
                                 className="md:p-4 py-2 block hover:text-red-500"
-                                href="#"
+                                href="/registration"
                             >
                                 Registration
                             </Link>
@@ -94,17 +94,17 @@ function NavBar() {
                         <li>
                             <Link
                                 className="md:p-4 py-2 block hover:text-red-500"
-                                href="#"
+                                href="/schedule"
                             >
-                                Contact
+                                Schedule
                             </Link>
                         </li>
                         <li>
                             <Link
                                 className="md:p-4 py-2 block hover:text-red-500"
-                                href="#"
+                                href="/contact"
                             >
-                                Schedule
+                                Contact
                             </Link>
                         </li>
                     </ul>

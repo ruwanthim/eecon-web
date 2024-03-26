@@ -2,7 +2,6 @@ import Button from "@/components/common/Button";
 import EventCard from "@/components/common/EventCard";
 import HomePageSectionOne from "@/components/page/home/HomePageSectionOne";
 import HomePageSectionThird from "@/components/page/home/HomePageSectionThird";
-import Image from "next/image";
 
 export default function Home() {
     return (
@@ -19,6 +18,10 @@ export default function Home() {
                     <h1 className="text-6xl font-bold">EECon 24</h1>
                     <p className="text-base text-lg">
                         International Conference on Electrical Engineering 2024
+                    </p>
+                    <p className="text-base text-md italic">
+                        12<sup>th</sup> Thursday, December 2024 @ Colombo, Sri
+                        Lanka
                     </p>
                     <Button>Register Now</Button>
                 </div>

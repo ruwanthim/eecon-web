@@ -22,14 +22,14 @@ export default function Footer() {
                     <h5 className="font-bold mb-4">Quick Links</h5>
                     <div className="font-regular flex flex-row md:flex-col pl-8">
                         <div className="flex flex-col">
-                            <Link href={"#"}>Home</Link>
-                            <Link href={"#"}>Committee</Link>
-                            <Link href={"#"}>Speaker</Link>
+                            <Link href={"/"}>Home</Link>
+                            <Link href={"/committee"}>Committee</Link>
+                            <Link href={"/speakers"}>Speakers</Link>
                         </div>
                         <div className="flex flex-col ml-8 md:ml-0">
-                            <Link href={"#"}>Program Schedule</Link>
-                            <Link href={"#"}>Registration</Link>
-                            <Link href={"#"}>Contact</Link>
+                            <Link href={"/program"}>Program Schedule</Link>
+                            <Link href={"/registration"}>Registration</Link>
+                            <Link href={"/contact"}>Contact</Link>
                         </div>
                     </div>
                 </div>
@@ -51,8 +51,9 @@ export default function Footer() {
                                     d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 0 0 2.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 0 1-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 0 0-1.091-.852H4.5A2.25 2.25 0 0 0 2.25 4.5v2.25Z"
                                 />
                             </svg>
-
-                            <p className="pl-2">0112 650 301</p>
+                            <Link className="pl-2" href={"tel:0112650301"}>
+                                0112 650 301
+                            </Link>
                         </div>
                         <div className="flex flex-row justify-left items-center">
                             <svg
@@ -70,10 +71,19 @@ export default function Footer() {
                                 />
                             </svg>
 
-                            <p className="pl-2">eesoc.mrt@gmail.com</p>
+                            <p className="pl-2"></p>
+                            <Link
+                                className="pl-2"
+                                href={"mailto:eesoc.mrt@gmail.com"}
+                            >
+                                eesoc.mrt@gmail.com
+                            </Link>
                         </div>
                         <div className="flex flex-row mt-4 justify-left items-center space-x-2">
-                            <Link href={"https://www.facebook.com/eesoc/"}>
+                            <Link
+                                target="blank"
+                                href={"https://www.facebook.com/eesoc/"}
+                            >
                                 <svg
                                     xmlns="http://www.w3.org/2000/svg"
                                     x="0px"
@@ -104,6 +114,7 @@ export default function Footer() {
                                 </svg>
                             </Link>
                             <Link
+                                target="blank"
                                 href={
                                     "https://www.linkedin.com/company/electrical-engineering-society-eesoc"
                                 }
@@ -137,7 +148,10 @@ export default function Footer() {
                                     </g>
                                 </svg>
                             </Link>
-                            <Link href={"https://www.instagram.com/eesoc_uom"}>
+                            <Link
+                                target="blank"
+                                href={"https://www.instagram.com/eesoc_uom"}
+                            >
                                 <svg
                                     xmlns="http://www.w3.org/2000/svg"
                                     x="0px"
