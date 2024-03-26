@@ -1,28 +1,6 @@
 {
     "hosting": {
         "public": "out",
-        "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
-        "rewrites": [
-            {
-                "source": "/speakers",
-                "destination": "/speakers.html"
-            },
-            {
-                "source": "/program",
-                "destination": "/program.html"
-            },
-            {
-                "source": "/registration",
-                "destination": "/registration.html"
-            },
-            {
-                "source": "/schedule",
-                "destination": "/schedule.html"
-            },
-            {
-                "source": "/contact",
-                "destination": "/contact.html"
-            }
-        ]
+        "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
 }

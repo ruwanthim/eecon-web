@@ -52,60 +52,60 @@ function NavBar() {
                 >
                     <ul className="pt-4 text-sm text-blue-950 md:flex md:justify-between md:pt-0">
                         <li>
-                            <Link
+                            <a
                                 className="md:p-4 py-2 block hover:text-red-500"
                                 href="/"
                             >
                                 Home
-                            </Link>
+                            </a>
                         </li>
                         <li>
-                            <Link
+                            <a
                                 className="md:p-4 py-2 block hover:text-red-500"
                                 href="/committee.html"
                             >
                                 Committee
-                            </Link>
+                            </a>
                         </li>
                         <li>
-                            <Link
+                            <a
                                 className="md:p-4 py-2 block hover:text-red-500"
                                 href="speakers.html"
                             >
                                 Speakers
-                            </Link>
+                            </a>
                         </li>
                         <li>
-                            <Link
+                            <a
                                 className="md:p-4 py-2 block hover:text-red-500"
                                 href="/program.html"
                             >
                                 Program
-                            </Link>
+                            </a>
                         </li>
                         <li>
-                            <Link
+                            <a
                                 className="md:p-4 py-2 block hover:text-red-500"
                                 href="/registration.html"
                             >
                                 Registration
-                            </Link>
+                            </a>
                         </li>
                         <li>
-                            <Link
+                            <a
                                 className="md:p-4 py-2 block hover:text-red-500"
                                 href="/schedule.html"
                             >
                                 Schedule
-                            </Link>
+                            </a>
                         </li>
                         <li>
-                            <Link
+                            <a
                                 className="md:p-4 py-2 block hover:text-red-500"
                                 href="/contact.html"
                             >
                                 Contact
-                            </Link>
+                            </a>
                         </li>
                     </ul>
                 </div>
