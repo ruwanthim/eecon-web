@@ -62,7 +62,7 @@ function NavBar() {
                         <li>
                             <a
                                 className="md:p-4 py-2 block hover:text-red-500"
-                                href="/committee.html"
+                                href="/committee"
                             >
                                 Committee
                             </a>
@@ -70,7 +70,7 @@ function NavBar() {
                         <li>
                             <a
                                 className="md:p-4 py-2 block hover:text-red-500"
-                                href="speakers.html"
+                                href="speakers"
                             >
                                 Speakers
                             </a>
@@ -78,7 +78,7 @@ function NavBar() {
                         <li>
                             <a
                                 className="md:p-4 py-2 block hover:text-red-500"
-                                href="/program.html"
+                                href="/program"
                             >
                                 Program
                             </a>
@@ -86,7 +86,7 @@ function NavBar() {
                         <li>
                             <a
                                 className="md:p-4 py-2 block hover:text-red-500"
-                                href="/registration.html"
+                                href="/registration"
                             >
                                 Registration
                             </a>
@@ -94,7 +94,7 @@ function NavBar() {
                         <li>
                             <a
                                 className="md:p-4 py-2 block hover:text-red-500"
-                                href="/schedule.html"
+                                href="/schedule"
                             >
                                 Schedule
                             </a>
@@ -102,7 +102,7 @@ function NavBar() {
                         <li>
                             <a
                                 className="md:p-4 py-2 block hover:text-red-500"
-                                href="/contact.html"
+                                href="/contact"
                             >
                                 Contact
                             </a>

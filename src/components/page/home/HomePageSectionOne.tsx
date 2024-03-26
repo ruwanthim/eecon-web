@@ -11,19 +11,11 @@ function HomePageSectionOne() {
                         <div className="p-4 pl-8 ">
                             <h6 className="text-red-500">26th, March 2024</h6>
                             <p className="text-black pt-3 pl-4">
-                                The paper submission starts on 1<sup>st</sup>{" "}
-                                April 2024. The Submission Deadline on 15
-                                <sup>th</sup> October 2024.
-                            </p>
-                            <div className="divide-y-0"></div>
-                        </div>
-
-                        {/* Notice - 02 */}
-                        <div className="p-4 pl-8 ">
-                            <h6 className="text-red-500">26th, March 2024</h6>
-                            <p className="text-black pt-3 pl-4">
-                                The registration deadline of the EECon 2024 is
-                                on 1<sup>st</sup> December 2024
+                                The Department of Electrical Engineering at the
+                                University of Moratuwa, Sri Lanka is thrilled to
+                                announce the launch of the official website for
+                                the 4th International Conference on Electrical
+                                Engineering (EECon2024).
                             </p>
                             <div className="divide-y-0"></div>
                         </div>
