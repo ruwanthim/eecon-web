@@ -14,7 +14,9 @@ export default function Contact() {
                 }}
             >
                 <div className="pt-36 left-1/6  text-start">
-                    <h1 className="text-4xl sm:text-6xl font-bold ">Contact</h1>
+                    <h1 className="text-4xl sm:text-6xl font-bold text-transform: uppercase">
+                        Contact
+                    </h1>
                 </div>
             </div>
             <div className="p-16 bg-gray-100 flex flex-col justify-center items-left">

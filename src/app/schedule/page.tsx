@@ -13,7 +13,7 @@ export default function Schedule() {
                 }}
             >
                 <div className="pt-36 left-1/6  text-start">
-                    <h1 className="text-4xl sm:text-6xl font-bold ">
+                    <h1 className="text-4xl sm:text-6xl font-bold text-transform: uppercase">
                         Schedule
                     </h1>
                 </div>

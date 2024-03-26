@@ -37,14 +37,40 @@ export default function Home() {
                 </h2>
                 <div className="flex flex-col md:flex-row">
                     <div className="basis-1/2 p-4 pb-0 md:pb-4">
-                        <EventCard></EventCard>
-                        <EventCard></EventCard>
-                        <EventCard></EventCard>
+                        <EventCard
+                            title={"SUBMISSION OF PAPERS"}
+                            date={"01"}
+                            month={"April"}
+                            subtitle={"Paper submission start date"}
+                        ></EventCard>
+                        <EventCard
+                            title={"NOTIFICATION OF ACCEPTANCE"}
+                            date={"15"}
+                            month={"October"}
+                            subtitle={
+                                "We'll notify the acceptance of your papers."
+                            }
+                        ></EventCard>
+                        <EventCard
+                            title={"REGISTRATION DEADLINE"}
+                            date={"01"}
+                            month={"December"}
+                            subtitle={"The event-day registration deadline."}
+                        ></EventCard>
                     </div>
                     <div className="basis-1/2 p-4 pt-0 md:pt-4">
-                        <EventCard></EventCard>
-                        <EventCard></EventCard>
-                        <EventCard></EventCard>
+                        <EventCard
+                            title={"PAPER SUBMISSION DEADLINE"}
+                            date={"01"}
+                            month={"July"}
+                            subtitle={"Paper submission deadline"}
+                        ></EventCard>
+                        <EventCard
+                            title={"CAMERA READY PAPER SUBMISSION"}
+                            date={"15"}
+                            month={"October"}
+                            subtitle={"Camera ready paper submission date."}
+                        ></EventCard>
                     </div>
                 </div>
             </div>

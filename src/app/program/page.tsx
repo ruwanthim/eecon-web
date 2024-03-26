@@ -13,7 +13,9 @@ export default function Program() {
                 }}
             >
                 <div className="pt-36 left-1/6  text-start">
-                    <h1 className="text-4xl sm:text-6xl font-bold ">Program</h1>
+                    <h1 className="text-4xl sm:text-6xl font-bold text-transform: uppercase">
+                        Program
+                    </h1>
                 </div>
             </div>
             <div className="h-80 bg-gray-100 flex justify-center items-center">
