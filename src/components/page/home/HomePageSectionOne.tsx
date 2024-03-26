@@ -27,7 +27,7 @@ function HomePageSectionOne() {
                         <h2 className="text-xl text-black font-semibold mb-2 text-transform: uppercase ">
                             Vision
                         </h2>
-                        <p className="text-gray-700 italic ">
+                        <p className="text-gray-700 italic text-sm">
                             To share the knowledge to integrate state of the art
                             technologies in different Engineering disciplines
                             for the betterment of fields of Electrical
@@ -36,16 +36,21 @@ function HomePageSectionOne() {
                         <h2 className="mt-8 text-xl text-black font-semibold mb-2 text-transform: uppercase ">
                             Mission
                         </h2>
-                        <p className="text-gray-700 italic ">
-                            To share the knowledge to integrate state of the art
-                            technologies in different Engineering disciplines
-                            for the betterment of fields of Electrical
-                            Engineering.
+                        <p className="text-gray-700 italic text-sm">
+                            To create a stage for researchers around the world
+                            to disseminate knowledge in the disciplines of
+                            Electrical, Instrumentation and Control, Electronics
+                            engineering, Computer Science & Engineering,
+                            Industrial Engineering and Information Technology
+                            for integration of diverse engineering solutions
+                            that are socially, economically and environmentally
+                            sustainable for the betterment of fields of
+                            Electrical Engineering.
                         </p>
                         <h2 className="mt-8 text-xl text-black font-semibold mb-2 text-transform: uppercase ">
                             Scope
                         </h2>
-                        <p className="text-gray-700 italic ">
+                        <p className="text-gray-700 italic text-sm">
                             EECon 2021 solicits research papers describing
                             significant and innovative research contributions to
                             all fields of electrical engineering. We invite
@@ -53,7 +58,7 @@ function HomePageSectionOne() {
                             Electrical Engineering. Topics of interest include,
                             but are not limited to,
                         </p>
-                        <ul className="list-disc pl-5 text-black overflow-scroll">
+                        <ul className="list-disc pl-5 text-black overflow-scroll text-sm">
                             <li className="mb-2 flex items-center">
                                 <svg
                                     xmlns="http://www.w3.org/2000/svg"
