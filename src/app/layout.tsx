@@ -3,6 +3,7 @@ import { Poppins } from "next/font/google";
 import "./globals.css";
 import NavBar from "@/components/common/NavBar";
 import Footer from "@/components/common/Footer";
+import LOGO from "../assets/logo.png";
 
 const inter = Poppins({
     weight: ["100", "200", "300", "400", "500", "600", "800"],
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
         { name: "EESoc", url: "https://www.eesoc.lk" },
         { name: "Janith Samee", url: "https://janithsamee.me" },
     ],
-
+    icons: [{ rel: "icon", url: "/logo.png", type: "image/x-icon" }],
     description:
         "To share the knowledge to integrate state of the art technologies in different Engineering disciplines for the betterment of fields of Electrical Engineering.",
 };
