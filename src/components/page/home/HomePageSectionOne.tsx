@@ -93,9 +93,9 @@ function HomePageSectionOne() {
                                     fill="currentColor"
                                 >
                                     <path
-                                        fill-rule="evenodd"
+                                        fillRule="evenodd"
                                         d="M3.293 7.293a1 1 0 0 1 1.414 0L10 12.586l6.293-6.293a1 1 0 1 1 1.414 1.414l-7 7a1 1 0 0 1-1.414 0l-7-7a1 1 0 0 1 0-1.414z"
-                                        clip-rule="evenodd"
+                                        clipRule="evenodd"
                                     />
                                 </svg>
                                 Power Quality and Reliability
@@ -108,9 +108,9 @@ function HomePageSectionOne() {
                                     fill="currentColor"
                                 >
                                     <path
-                                        fill-rule="evenodd"
+                                        fillRule="evenodd"
                                         d="M3.293 7.293a1 1 0 0 1 1.414 0L10 12.586l6.293-6.293a1 1 0 1 1 1.414 1.414l-7 7a1 1 0 0 1-1.414 0l-7-7a1 1 0 0 1 0-1.414z"
-                                        clip-rule="evenodd"
+                                        clipRule="evenodd"
                                     />
                                 </svg>
                                 Power Systems Stability and Power Systems
@@ -124,9 +124,9 @@ function HomePageSectionOne() {
                                     fill="currentColor"
                                 >
                                     <path
-                                        fill-rule="evenodd"
+                                        fillRule="evenodd"
                                         d="M3.293 7.293a1 1 0 0 1 1.414 0L10 12.586l6.293-6.293a1 1 0 1 1 1.414 1.414l-7 7a1 1 0 0 1-1.414 0l-7-7a1 1 0 0 1 0-1.414z"
-                                        clip-rule="evenodd"
+                                        clipRule="evenodd"
                                     />
                                 </svg>
                                 Electrical Machines, Power Electronics, and
@@ -140,9 +140,9 @@ function HomePageSectionOne() {
                                     fill="currentColor"
                                 >
                                     <path
-                                        fill-rule="evenodd"
+                                        fillRule="evenodd"
                                         d="M3.293 7.293a1 1 0 0 1 1.414 0L10 12.586l6.293-6.293a1 1 0 1 1 1.414 1.414l-7 7a1 1 0 0 1-1.414 0l-7-7a1 1 0 0 1 0-1.414z"
-                                        clip-rule="evenodd"
+                                        clipRule="evenodd"
                                     />
                                 </svg>
                                 Renewable Energy Systems and Battery
@@ -156,9 +156,9 @@ function HomePageSectionOne() {
                                     fill="currentColor"
                                 >
                                     <path
-                                        fill-rule="evenodd"
+                                        fillRule="evenodd"
                                         d="M3.293 7.293a1 1 0 0 1 1.414 0L10 12.586l6.293-6.293a1 1 0 1 1 1.414 1.414l-7 7a1 1 0 0 1-1.414 0l-7-7a1 1 0 0 1 0-1.414z"
-                                        clip-rule="evenodd"
+                                        clipRule="evenodd"
                                     />
                                 </svg>
                                 Smart Technologies and Electric Transportation
@@ -171,9 +171,9 @@ function HomePageSectionOne() {
                                     fill="currentColor"
                                 >
                                     <path
-                                        fill-rule="evenodd"
+                                        fillRule="evenodd"
                                         d="M3.293 7.293a1 1 0 0 1 1.414 0L10 12.586l6.293-6.293a1 1 0 1 1 1.414 1.414l-7 7a1 1 0 0 1-1.414 0l-7-7a1 1 0 0 1 0-1.414z"
-                                        clip-rule="evenodd"
+                                        clipRule="evenodd"
                                     />
                                 </svg>
                                 Conventional Energy Technologies
@@ -186,9 +186,9 @@ function HomePageSectionOne() {
                                     fill="currentColor"
                                 >
                                     <path
-                                        fill-rule="evenodd"
+                                        fillRule="evenodd"
                                         d="M3.293 7.293a1 1 0 0 1 1.414 0L10 12.586l6.293-6.293a1 1 0 1 1 1.414 1.414l-7 7a1 1 0 0 1-1.414 0l-7-7a1 1 0 0 1 0-1.414z"
-                                        clip-rule="evenodd"
+                                        clipRule="evenodd"
                                     />
                                 </svg>
                                 Power Systems Economics
@@ -201,9 +201,9 @@ function HomePageSectionOne() {
                                     fill="currentColor"
                                 >
                                     <path
-                                        fill-rule="evenodd"
+                                        fillRule="evenodd"
                                         d="M3.293 7.293a1 1 0 0 1 1.414 0L10 12.586l6.293-6.293a1 1 0 1 1 1.414 1.414l-7 7a1 1 0 0 1-1.414 0l-7-7a1 1 0 0 1 0-1.414z"
-                                        clip-rule="evenodd"
+                                        clipRule="evenodd"
                                     />
                                 </svg>
                                 Control and Automation
@@ -216,9 +216,9 @@ function HomePageSectionOne() {
                                     fill="currentColor"
                                 >
                                     <path
-                                        fill-rule="evenodd"
+                                        fillRule="evenodd"
                                         d="M3.293 7.293a1 1 0 0 1 1.414 0L10 12.586l6.293-6.293a1 1 0 1 1 1.414 1.414l-7 7a1 1 0 0 1-1.414 0l-7-7a1 1 0 0 1 0-1.414z"
-                                        clip-rule="evenodd"
+                                        clipRule="evenodd"
                                     />
                                 </svg>
                                 Robotics and Intelligent Systems
@@ -231,9 +231,9 @@ function HomePageSectionOne() {
                                     fill="currentColor"
                                 >
                                     <path
-                                        fill-rule="evenodd"
+                                        fillRule="evenodd"
                                         d="M3.293 7.293a1 1 0 0 1 1.414 0L10 12.586l6.293-6.293a1 1 0 1 1 1.414 1.414l-7 7a1 1 0 0 1-1.414 0l-7-7a1 1 0 0 1 0-1.414z"
-                                        clip-rule="evenodd"
+                                        clipRule="evenodd"
                                     />
                                 </svg>
                                 Electronics, Biomedical Engineering, Computer

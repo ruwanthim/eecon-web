@@ -1,6 +1,7 @@
 import Button from "@/components/common/Button";
 import EventCard from "@/components/common/EventCard";
 import HomePageSectionOne from "@/components/page/home/HomePageSectionOne";
+import HomePageSectionThird from "@/components/page/home/HomePageSectionThird";
 import Image from "next/image";
 
 export default function Home() {
@@ -44,6 +45,9 @@ export default function Home() {
                     </div>
                 </div>
             </div>
+
+            {/* Section 03 */}
+            <HomePageSectionThird></HomePageSectionThird>
         </main>
     );
 }
