@@ -26,7 +26,35 @@ export default function Contact() {
                 <div className="flex flex-col pl-8">
                     <div className="flex flex-row items-center pl-8">
                         <div className="h-2 w-2  bg-red-600 rounded-full mr-4"></div>
-                        <p>Mr W. M. N. Witharana</p>
+                        <p>Dr. R.M.M. Ruwanthika</p>
+                    </div>
+                    <p className="text-gray-400 pl-16">Program Chair</p>
+                    <div className="flex flex-row justify-left items-center ml-16">
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            fill="none"
+                            viewBox="0 0 24 24"
+                            strokeWidth={1.5}
+                            stroke="currentColor"
+                            className="w-4 h-4"
+                        >
+                            <path
+                                strokeLinecap="round"
+                                strokeLinejoin="round"
+                                d="M16.5 12a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0Zm0 0c0 1.657 1.007 3 2.25 3S21 13.657 21 12a9 9 0 1 0-2.636 6.364M16.5 12V8.25"
+                            />
+                        </svg>
+
+                        <Link className="pl-2" href={"mailto:ruwanthim@uom.lk"}>
+                            {" "}
+                            ruwanthim@uom.lk
+                        </Link>
+                    </div>
+                </div>
+                <div className="flex flex-col pl-8 mt-4">
+                    <div className="flex flex-row items-center pl-8">
+                        <div className="h-2 w-2  bg-red-600 rounded-full mr-4"></div>
+                        <p>Mr. W. M. N. Witharana</p>
                     </div>
                     <p className="text-gray-400 pl-16">Conference Secretary</p>
                     <div className="flex flex-row justify-left items-center ml-16">

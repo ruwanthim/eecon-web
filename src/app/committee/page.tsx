@@ -14,6 +14,8 @@ import IMG_RASARA from "../../assets/persons/dr_rasara.jpg";
 import IMG_THUSHARA from "../../assets/persons/dr_thushara.jpg";
 import IMG_LINDULA from "../../assets/persons/prof_lindula.jpg";
 import IMG_MUDITH from "../../assets/persons/mr_mudith.jpeg";
+import IMG_ABEYGUNAWARDANE from "../../assets/persons/dr_abeygunawardane.jpg";
+import IMG_LOGEESHAN from "../../assets/persons/dr_logeeshan.jpg";
 
 export default function Committee() {
     return (
@@ -93,7 +95,17 @@ export default function Committee() {
                     image={IMG_HARSHA}
                     name="Dr. A.M.H.S. Abeykoon, USA"
                 ></HeaderImageCard>
+                <HeaderImageCard
+                    image={IMG_ABEYGUNAWARDANE}
+                    name="Dr. S.K. Abeygunawardane"
+                ></HeaderImageCard>
             </div>
+            <HeaderCard text={"Local Organizing Chair"}></HeaderCard>
+
+            <HeaderImageCard
+                image={IMG_LOGEESHAN}
+                name="Dr. L. Velmanickam "
+            ></HeaderImageCard>
             <div className="flex flex-col sm:flex-row">
                 <div className="basis-1/2">
                     <HeaderCard text={"Local Organizing Chair"}></HeaderCard>

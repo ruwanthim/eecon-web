@@ -68,7 +68,7 @@ export default function Home() {
                         <EventCard
                             title={"CAMERA READY PAPER SUBMISSION"}
                             date={"15"}
-                            month={"October"}
+                            month={"November"}
                             subtitle={"Camera ready paper submission date."}
                         ></EventCard>
                     </div>

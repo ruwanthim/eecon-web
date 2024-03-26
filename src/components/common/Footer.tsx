@@ -73,7 +73,7 @@ export default function Footer() {
 
                             <p className="pl-2"></p>
                             <Link
-                                className="pl-2"
+                                className="pl-1"
                                 href={"mailto:eesoc.mrt@gmail.com"}
                             >
                                 eesoc.mrt@gmail.com
@@ -187,7 +187,9 @@ export default function Footer() {
             </div>
             <div className="w-full divide-y p-0 divide-white flex justify-center items-center">
                 {/* <div className="w-full p-4"></div> */}
-                <p className="text-gray-400 pt-2">© 2024 EESoc</p>
+                <p className="text-gray-400 pt-2 text-sm">
+                    ©2024 Electrical Engineering Society
+                </p>
             </div>
         </div>
     );

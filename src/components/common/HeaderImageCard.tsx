@@ -16,7 +16,9 @@ export default function HeaderImageCard({
                     src={image}
                     alt={name}
                 ></Image>
-                <p className="text-black">{name}</p>
+                <div className="p-2">
+                    <p className="text-black">{name}</p>
+                </div>
             </div>
         </div>
     );
