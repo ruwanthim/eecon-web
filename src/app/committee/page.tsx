@@ -100,6 +100,36 @@ export default function Committee() {
                     name="Dr. S.K. Abeygunawardane, USA"
                 ></HeaderImageCard>
             </div>
+
+            <HeaderCard text={"Registration/Financial Chair"}></HeaderCard>
+
+            <HeaderImageCard
+                image={IMG_LOGEESHAN}
+                name="Dr. L. Velmanickam "
+            ></HeaderImageCard>
+            <div className="flex flex-col sm:flex-row">
+                <div className="basis-1/2">
+                    <HeaderCard text={"Local Organizing Chair"}></HeaderCard>
+
+                    <HeaderImageCard
+                        image={IMG_RASARA}
+                        name="Dr. R. Samarasinghe"
+                    ></HeaderImageCard>
+                </div>
+                <div className="basis-1/2">
+                    <HeaderCard text={"Local Organizing Co-Chair"}></HeaderCard>
+                    <HeaderImageCard
+                        image={IMG_THUSHARA}
+                        name="Dr. R.M.T. Damayanthi"
+                    ></HeaderImageCard>
+                </div>
+            </div>
+
+            <HeaderCard text={"Awards Chair"}></HeaderCard>
+            <HeaderImageCard
+                image={IMG_LINDULA}
+                name="Prof. L.N.W. Arachchige"
+            ></HeaderImageCard>
             <HeaderCard text={"Track Chairs"}></HeaderCard>
             <div className="flex flex-col w-full justify-center items-center ">
                 <div className="bg-white w-3/4 sm:w-1/2 flex mt-4  shadow-lg">
@@ -130,36 +160,6 @@ export default function Committee() {
                     </div>
                 </div>
             </div>
-
-            <HeaderCard text={"Local Organizing Chair"}></HeaderCard>
-
-            <HeaderImageCard
-                image={IMG_LOGEESHAN}
-                name="Dr. L. Velmanickam "
-            ></HeaderImageCard>
-            <div className="flex flex-col sm:flex-row">
-                <div className="basis-1/2">
-                    <HeaderCard text={"Local Organizing Chair"}></HeaderCard>
-
-                    <HeaderImageCard
-                        image={IMG_RASARA}
-                        name="Dr. R. Samarasinghe"
-                    ></HeaderImageCard>
-                </div>
-                <div className="basis-1/2">
-                    <HeaderCard text={"Local Organizing Co-Chair"}></HeaderCard>
-                    <HeaderImageCard
-                        image={IMG_THUSHARA}
-                        name="Dr. R.M.T. Damayanthi"
-                    ></HeaderImageCard>
-                </div>
-            </div>
-
-            <HeaderCard text={"Awards Chair"}></HeaderCard>
-            <HeaderImageCard
-                image={IMG_LINDULA}
-                name="Prof. L.N.W. Arachchige"
-            ></HeaderImageCard>
             <HeaderCard text={"Conference Secretary"}></HeaderCard>
             <HeaderImageCard
                 image={IMG_MUDITH}

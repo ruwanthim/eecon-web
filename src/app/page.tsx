@@ -16,10 +16,10 @@ export default function Home() {
             >
                 <div className="absolute top-1/2 left-1/6  text-start">
                     <h1 className="text-6xl font-bold">EECon 24</h1>
-                    <p className="text-base text-lg">
+                    <p className="text-base text-lg ">
                         International Conference on Electrical Engineering 2024
                     </p>
-                    <p className="text-base text-md italic">
+                    <p className="text-base text-md italic mb-2">
                         12<sup>th</sup> Thursday, December 2024 @ Colombo, Sri
                         Lanka
                     </p>

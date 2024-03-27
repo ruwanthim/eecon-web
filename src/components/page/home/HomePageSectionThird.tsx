@@ -11,7 +11,9 @@ export default function HomePageSectionThird() {
                         Organized By
                     </h5>
                     <p className="ml-8 sm:ml-16 ">
-                        Electrical Engineering Society <br />
+                        Department of Electrical Engineering with Electrical
+                        Engineering Society
+                        <br />
                         University of Moratuwa
                     </p>
                 </div>
