@@ -40,7 +40,7 @@ export default function Home() {
                         <EventCard
                             title={"SUBMISSION OF PAPERS"}
                             date={"01"}
-                            month={"April"}
+                            month={"May"}
                             subtitle={"Paper submission start date"}
                         ></EventCard>
                         <EventCard
