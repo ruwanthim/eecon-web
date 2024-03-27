@@ -155,7 +155,7 @@ export default function Committee() {
                         </p>
 
                         <p className="text-gray-400 italic">
-                            {"The Tract Chairs will be updated soon.."}
+                            {"The Track Chairs will be updated soon.."}
                         </p>
                     </div>
                 </div>
